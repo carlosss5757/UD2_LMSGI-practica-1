@@ -1,6 +1,6 @@
 body 
 {
-    background-image: url(../images/fondo.jpg);
+    background-image: url(fondo.jpg);
     font-family: Arial, sans-serif;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ ul
 
 li 
 {
-    background-image: url(../images/fondo.jpg);
+    background-image: url(fondo.jpg);
     background-repeat: no-repeat;
     background-position: left center;
     border: 1px solid#7a7a7a;
